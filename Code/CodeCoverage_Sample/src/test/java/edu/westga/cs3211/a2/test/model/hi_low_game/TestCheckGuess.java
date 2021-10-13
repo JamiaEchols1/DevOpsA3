@@ -8,7 +8,9 @@ import org.junit.jupiter.api.Test;
 
 import edu.westga.cs3211.a2.model.GuessReport;
 import edu.westga.cs3211.a2.model.HiLowGame;
-
+/**
+* Test Check Guess method
+*/
 class TestCheckGuess {
 	
 	private class RandomFakeSpy extends Random {
